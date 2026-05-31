@@ -1,0 +1,11 @@
+Location_ID,City,State,EMF_Field_Strength,Ghost_Activity_Score,Entity_Type,Encounter_Summary
+LOC_001,Saratoga Springs,New York,4.2,6.5,Apparition,Cold spots detected in the ballroom accompanied by a floating figure in a Victorian dress.
+LOC_002,Savannah,Georgia,8.1,9.0,Poltergeist,Objects flying across the kitchen. Heavy footsteps heard when the house was completely empty.
+LOC_003,New Orleans,Louisiana,3.9,5.2,Shadow Person,A dark silhouette seen lingering at the end of the hallway during twilight hours.
+LOC_004,Amityville,New York,NaN,8.7,Demon,Extreme negative energy reported. Sudden drop in temperature down to freezing levels.
+LOC_005,Estes Park,Colorado,5.1,NaN,Apparition,Whispers heard in Room 217. A phantom businessman seen walking through the walls.
+LOC_006,San Jose,California,2.1,3.0,Residual Haunting,Sounds of construction and hammering heard at midnight in the sealed corridors.
+LOC_007,Alton,Illinois,9.4,7.8,NaN,Loud thumping noises coming from the basement area. Apparition spotted near the old furnace.
+LOC_008,St. Augustine,Florida,1.5,2.1,Phantom,A lighthouse keeper's spirit seen walking the catwalk holding a dim lantern.
+LOC_009,Gettysburg,Pennsylvania,4.8,6.0,Apparition,Phantom sounds of drums and marching soldiers heard near the battlefield tree line.
+LOC_010,Portland,Oregon,952.0,4.5,Shadow Person,Fleeting shadows moving rapidly across the underground Shanghai tunnels.
