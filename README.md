@@ -37,18 +37,18 @@ Ensure your GitHub repository contains these exact elements:
 ### 1. Initial Data Scan (Pre-Cleaning)
 The parsing phase confirms that the raw inputs possess incomplete tracking frames, showing only 9 non-null values out of 10 entries across key features:
 
-![Terminal Execution Stage 1](Output-1.png)
+![Terminal Execution Stage 1](Screenshots/Output-1.png)
 
 ### 2. Comprehensive Analytics Dashboard
 The pipeline automatically structures, styles, and saves a dual-chart dashboard block:
 * **Top Half (Boxplot):** Identifies the Portland tracking anomaly sitting miles outside the valid upper whisker line, isolated in a warning red marker.
 * **Bottom Half (Correlation Heatmap):** Plots the mathematical dependencies and linear correlations between our processed elements.
 
-![Visual Analytics Dashboard](ghost_analysis_dashboard.png)
+![Visual Analytics Dashboard](Screenshots/ghost_analysis_dashboard.png)
 
 > **Note on Terminal Display:** Running the file on Windows environments generates a minor `UserWarning` indicating that standard system console fonts do not natively render the graphical title emojis (⚠️ and 🔮). This warning has zero functional impact—the high-resolution layout dashboard prints and saves completely intact!
 
 ### 3. Final Model-Ready Telemetry Matrix
 Following outlier elimination and class transformation, the active matrix displays a perfectly scaled, fully numeric database structure ready for machine learning consumption:
 
-![Terminal Execution Stage 2](Output-2.png)
+![Terminal Execution Stage 2](Screenshots/Output-2.png)
